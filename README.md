@@ -1,4 +1,4 @@
-# **SmartWallet** 
+# *SmartWallet* 
 *for the smarter you-*
 ***
 
