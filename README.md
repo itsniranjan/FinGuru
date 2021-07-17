@@ -1,4 +1,4 @@
-# *SmartWallet* 
+# *FinGuru* 
 *for the smarter you-*
 ***
 
