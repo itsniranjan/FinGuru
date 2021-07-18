@@ -24,7 +24,7 @@ This app helps the user save a lot of money and also increases the efficacy of b
 ***Click here to go to the slides*** - 
 https://docs.google.com/presentation/d/14y7ppShC3AsstNGSrw_Tyd6VqHFZCEjTU_m4iIjrx-s/edit?usp=sharing
 
-***Demonstration of solution*** -
+***Demonstration of solution (video)*** -
 https://youtu.be/Z5EbSZcQKuQ
 
-***Working explanation*** - https://www.loom.com/share/6b5d3af57ae24e6aace4a1008f9c4247
+***Working explanation (video)*** - https://www.loom.com/share/6b5d3af57ae24e6aace4a1008f9c4247
