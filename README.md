@@ -26,3 +26,5 @@ https://youtu.be/Z5EbSZcQKuQ
 
 ***Click here to go to the slides*** - 
 https://docs.google.com/presentation/d/14y7ppShC3AsstNGSrw_Tyd6VqHFZCEjTU_m4iIjrx-s/edit?usp=sharing
+
+***Working explanation*** - https://www.loom.com/share/6b5d3af57ae24e6aace4a1008f9c4247
