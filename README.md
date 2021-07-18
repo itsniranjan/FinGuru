@@ -14,7 +14,7 @@ FinGuru reads each SMS that comes to your mobile and smartly finds the transacti
 
 ***Technology used***
 ***
-Natural Language processing libraries
+Natural Language processing library - NLTK
 Flutter
 
 ***Application and future of the solution***
