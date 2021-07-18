@@ -145,68 +145,6 @@ class _DashboardState extends State<Dashboard> {
         child: Column(
           mainAxisSize: MainAxisSize.max,
           children: [
-            Align(
-              alignment: Alignment(0, -0.7),
-              child: Padding(
-                padding: EdgeInsets.fromLTRB(0, 20, 0, 20),
-                child: Container(
-                  width: 300,
-                  height: 150,
-                  decoration: BoxDecoration(
-                    color: Color(0xFFFFEBEE),
-                    borderRadius: BorderRadius.circular(30),
-                  ),
-                  child: Padding(
-                    padding: EdgeInsets.fromLTRB(0, 20, 0, 0),
-                    child: Column(
-                      mainAxisSize: MainAxisSize.max,
-                      mainAxisAlignment: MainAxisAlignment.start,
-                      children: [
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(0, 0, 0, 10),
-                          child: Text('Energy Usage',
-                              style: TextStyle(
-                                fontSize: 20,
-                              )),
-                        ),
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(0, 0, 0, 10),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                            children: [
-                              Column(
-                                mainAxisSize: MainAxisSize.max,
-                                children: [
-                                  Text(
-                                    'Todays usage',
-                                  )
-                                ],
-                              ),
-                              Text(
-                                'This month',
-                              )
-                            ],
-                          ),
-                        ),
-                        Row(
-                          mainAxisSize: MainAxisSize.max,
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: [
-                            Text(
-                              '10.20 kwH',
-                            ),
-                            Text(
-                              '325.43 kwH',
-                            )
-                          ],
-                        )
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-            ),
             SfCalendar(),
           ],
         ),
